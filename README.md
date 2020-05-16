@@ -9,3 +9,7 @@ gem install pg
 
 # Mysql
 gem install mysql
+
+# Redis
+gem install redis
+
