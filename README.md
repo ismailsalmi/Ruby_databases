@@ -1,2 +1,11 @@
-# Ruby_databases
-Ruby with databases sql and no sql
+# Firebase
+gem install firebase
+
+# Mongodb
+gem install mongo
+
+# Postgres
+gem install pg
+
+# Mysql
+gem install mysql
